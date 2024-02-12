@@ -14,14 +14,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/consumet/consumet.ts.git"
+        "url": "git+https://github.com/Shubhjn4357/xstream-api.git"
     },
-    "author": "prince-ao <princead@tutanota.com>",
+    "author": "Shubh-jn <shubhamjain.com.in@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/consumet/consumet.ts/issues"
+        "url": "https://github.com/Shubhjn4357/xstream-api/issues"
     },
-    "homepage": "https://github.com/consumet/consumet.ts#readme",
+    "homepage": "https://github.com/Shubhjn4357/xstream-api#README.md",
     "dependencies": {
         "@consumet/extensions": "github:consumet/consumet.ts",
         "@fastify/cors": "^8.2.0",

@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://bit.ly/D-1301/">
-    <img alt="iNumaki-Api" src="https://media.discordapp.net/attachments/1179424191083204709/1201440406253076560/IMG_20240127_010415_250.jpg?ex=65c9d392&is=65b75e92&hm=c9f6006c48d7b58caf05c831a57aa644274ab8240904cfcee62bb19c42d61c5a&" width="150">
+    <img alt="XStream-Api" src="https://drive.google.com/file/d/1YRxxcOazMiUUh7Yg0L-QIVHclsQH8KS5/view?usp=sharing" width="150">
   </a>
 </p>
 
 <h1 align="center">
-  iNumaki Api
+  XStream Api
 </h1>
 <p align="center">
-  iNumaki Api provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
+  XStream Api provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
 </p>
 <p align="center">
     <a href="https://github.com/consumet/api.consumet.org/actions/workflows/docker-build.yml">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-iNumaki Api scrapes data from various websites and provides APIs for accessing the data to satisfy your needs.
+XStream Api scrapes data from various websites and provides APIs for accessing the data to satisfy your needs.
 
 <h2> Table of Contents </h2>
 
@@ -51,8 +51,8 @@ installation is simple.
 Run the following command to clone the repository, and install the dependencies.
 
 ```sh
-$ git clone https://github.com/ShifaRestuf/Anime-Api
-$ cd Anime-Api
+$ git clone https://github.com/Shubhjn4357/xstream-api.git
+$ cd xstream-Api
 $ npm install #or yarn install
 ```
 
@@ -63,13 +63,13 @@ $ npm start #or yarn start
 ```
 
 ### Docker
-Docker image is available at [Docker Hub](https://hub.docker.com/r/riimuru/consumet-api).
+Docker image is available at [Docker Hub](https://hub.docker.com/r/shubhjn4357/xstream-api).
 
 run the following command to pull and run the docker image.
 
 ```sh
-$ docker pull riimuru/consumet-api
-$ docker run -p 3000:3000 riimuru/consumet-api
+$ docker pull shubhjn4357/xstream-api
+$ docker run -p 3000:3000 shubhjn4357/xstream-api
 ```
 This will start the server on port 3000. You can access the server at http://localhost:3000/, And can change the port by changing the -p option to `-p <port>:3000`.
 
@@ -125,5 +125,5 @@ Thanks to the following people for keeping this project alive and thriving.
 
 ## Related repositories
  - [Consumet.ts](https://github.com/consumet/consumet.ts)
- - [Website](https://github.com/consumet/consumet.org)
+ - [Website](https://shubham-jain.vercel.app)
  - [Providers Status](https://github.com/consumet/providers-status)
